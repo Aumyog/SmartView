@@ -1,3 +1,6 @@
+
+Smart View
+
 The pandemic has drastically disrupted consumer behavior, the e-commerce
 industry has been booming and our project intends to capitalize
 on it. The human cost and labor have caused endless issues for brick-and-
