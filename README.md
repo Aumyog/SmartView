@@ -24,3 +24,24 @@ systems for this project.
 Our objective is to raise the bar of the customer experience by using the
 internet and technology.
 
+Here are some screen shots showing the my project.Here I am connected to a MySQL Database 
+that is locally initilaized on my machine:-
+
+Main Screen
+<img width="1440" alt="Screen Shot 2024-03-06 at 12 39 12 AM" src="https://github.com/user-attachments/assets/825a7bae-c99e-4783-a23c-62f3cacd1fc3">
+
+Log-In
+<img width="1440" alt="Screen Shot 2024-03-06 at 12 46 52 AM" src="https://github.com/user-attachments/assets/6ea084d2-088f-4645-9122-d171d19763ee">
+
+Data Filt<img width="1440" alt="Screen Shot 2024-03-06 at 12 47 37 AM" src="https://github.com/user-attachments/assets/e88535fc-46e7-4903-8c02-0779a4b25dec">
+ering Example
+
+
+
+
+
+
+
+
+
+
